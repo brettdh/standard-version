@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [9.1.1](https://github.com/brettdh/standard-version/compare/v9.1.0...v9.1.1) (2021-01-19)
+
+
+### Bug Fixes
+
+* print version number that updater.writeVersion returns ([d0673e7](https://github.com/brettdh/standard-version/commit/d0673e739ed69e97c4dbb9b7d476a47e7243f4f8)), closes [expo-community/standard-version-expo#18](https://github.com/expo-community/standard-version-expo/issues/18) [expo-community/standard-version-expo#10](https://github.com/expo-community/standard-version-expo/issues/10)
+* **deps:** update dependency yargs to v16 ([#660](https://github.com/brettdh/standard-version/issues/660)) ([f6a7430](https://github.com/brettdh/standard-version/commit/f6a7430329919874e1e744ac5dca2f83bba355df))
+
 ## [9.1.0](https://www.github.com/conventional-changelog/standard-version/compare/v9.0.0...v9.1.0) (2020-12-01)
 
 
